@@ -22,7 +22,17 @@ Test performed in:
 + Swift
 + V
 + Vala
++ Clojure
++ Dart
++ Dlang
++ Haskell
++ Kotlin
++ Ocaml
++ Powershell
++ Scala
++ Typescript
++ Zig
 
 ---
 
-In the videos: [One](https://youtu.be/spLIBqiv2Og) and [Two](https://youtu.be/KbWIFxUqjfc) .
+In the videos: [First video](https://youtu.be/spLIBqiv2Og), [Second video](https://youtu.be/KbWIFxUqjfc) and [Third video](https://youtu.be/M1CCb3XFccQ) .
