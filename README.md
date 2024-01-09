@@ -35,13 +35,4 @@ Test performed in:
 
 ---
 
-```mermaid
-graph LR;
-  A["API (FastAPI) fa:fa-globe"]
-  B[("Banco de Dados (PG) fa:fa-cubes")]
-  A --> B
-```
-
----
-
 In the videos: [First video](https://youtu.be/spLIBqiv2Og), [Second video](https://youtu.be/KbWIFxUqjfc) and [Third video](https://youtu.be/M1CCb3XFccQ) .
