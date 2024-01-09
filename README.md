@@ -37,7 +37,7 @@ Test performed in:
 
 ```mermaid
 graph LR;
-  A["API (FastAPI) fa:fa-globe]
+  A["API (FastAPI) fa:fa-globe"]
   B[("Banco de Dados (PG) fa:fa-cubes")]
   A --> B
 ```
