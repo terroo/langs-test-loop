@@ -1,6 +1,21 @@
 # langs-test-loop
 Loop performance test with 1 million cycles in programming languages
 
+---
+
+# Recursos
+- FastAPI
+- Banco de Dados 
+
+```mermaid
+graph LR;
+  A["API (FastAPI) fa:fa-globe"]
+  B[("Banco de Dados (PG) fa:fa-cubes")]
+  A --> B
+```
+
+---
+
 Test performed in: 
 + C
 + C++
